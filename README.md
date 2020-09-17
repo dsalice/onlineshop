@@ -1,4 +1,5 @@
-# onlineshop: 온라인 쇼핑몰 시스템 설계 및 개발 (상품 등록, 상품 할인 기능 구현)
+# onlineshop: 온라인 쇼핑몰 시스템 설계 및 개발     
+(상품 등록, 상품 할인 기능 구현)
 
 
 ## 개발 환경    
@@ -12,19 +13,24 @@
     + 사업자기준: 할인이 가장 적게 되는 쿠폰을 선택한다.
 
 ## 구조    
-* 상품 등록    
-    + requestProductManagement
+### 상품 등록    
+    + **requestProductManagement**
     
   ![1](https://user-images.githubusercontent.com/37493709/93419137-fc764f80-f8e6-11ea-8323-af12e5a1ec55.jpg)
 
-    + createNewProduct
+    + **createNewProduct**
 
   ![2](https://user-images.githubusercontent.com/37493709/93419419-c2f21400-f8e7-11ea-8f5f-107bd8a6d492.jpg)
 
-    + enterProduct
+    + **enterProduct**
     
     ![3](https://user-images.githubusercontent.com/37493709/93419421-c4234100-f8e7-11ea-9072-6c54b6f3744a.jpg)
     
-    + requestCreate
+    + **requestCreate**
     
     ![4](https://user-images.githubusercontent.com/37493709/93419422-c4234100-f8e7-11ea-9cf7-6ea269043fa6.jpg)
+    
+### 상품 할인 
+
+![할인1](https://user-images.githubusercontent.com/37493709/93419585-2c722280-f8e8-11ea-8acd-794da43715ce.jpg)
+
