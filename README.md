@@ -14,19 +14,19 @@
 
 ## 구조    
 ### 상품 등록    
-    + **requestProductManagement**
+   + **requestProductManagement**
     
   ![1](https://user-images.githubusercontent.com/37493709/93419137-fc764f80-f8e6-11ea-8323-af12e5a1ec55.jpg)
 
-    + **createNewProduct**
+   + **createNewProduct**
 
   ![2](https://user-images.githubusercontent.com/37493709/93419419-c2f21400-f8e7-11ea-8f5f-107bd8a6d492.jpg)
 
-    + **enterProduct**
+   + **enterProduct**
     
     ![3](https://user-images.githubusercontent.com/37493709/93419421-c4234100-f8e7-11ea-9072-6c54b6f3744a.jpg)
     
-    + **requestCreate**
+   + **requestCreate**
     
     ![4](https://user-images.githubusercontent.com/37493709/93419422-c4234100-f8e7-11ea-9cf7-6ea269043fa6.jpg)
     
